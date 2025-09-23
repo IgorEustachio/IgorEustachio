@@ -80,7 +80,8 @@ Meu nome é Igor Daniel Rodrigues Eustachio, tenho 15 anos e sou natural de Jund
 />
 <br/>
 <br/>
-<br/>
+
+---
 
 # 📊 Estatísticas
 
