@@ -78,6 +78,15 @@ Meu nome é Igor Daniel Rodrigues Eustachio, tenho 15 anos e sou natural de Jund
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Chatvolt" 
+    title="Chatvolt"
+    width="55px" 
+    style="padding-right: 10px;" 
+    src="https://www.chatvolt.ai/logo.png" 
+/>
+
 <br/>
 <br/>
 
