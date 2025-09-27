@@ -80,6 +80,14 @@ Meu nome é Igor Daniel Rodrigues Eustachio, tenho 15 anos e sou natural de Jund
 />
 <img 
     align="left" 
+    alt="Jupyter Notebook" 
+    title="Jupyter Notebook"
+    width="55px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Chatvolt" 
     title="Chatvolt"
     width="55px" 
