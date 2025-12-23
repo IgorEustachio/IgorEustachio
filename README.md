@@ -1,6 +1,6 @@
 # 👋 Igor Eustachio
 
-Meu nome é Igor Daniel Rodrigues Eustachio, tenho 15 anos e sou natural de Jundiaí. Estou cursando Desenvolvimento de Sistemas na Etec Vasco Antonio Venchiarutti, além de Python para Data Science no SENAI. Estou utilizando o GitHub para compartilhar projetos escolares e pessoais.
+Meu nome é Igor Daniel Rodrigues Eustachio, tenho 16 anos e sou natural de Jundiaí. Estou cursando Desenvolvimento de Sistemas na Etec Vasco Antonio Venchiarutti, além de Python para Data Science no SENAI. Estou utilizando o GitHub para compartilhar projetos escolares e pessoais.
 
 ---
 
