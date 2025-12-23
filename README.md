@@ -94,29 +94,3 @@ Meu nome é Igor Daniel Rodrigues Eustachio, tenho 16 anos e sou natural de Jund
     style="padding-right: 10px;" 
     src="https://www.chatvolt.ai/logo.png" 
 />
-
-<br/>
-<br/>
-
----
-
-# 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorEustachio&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-</p>
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEustachio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
