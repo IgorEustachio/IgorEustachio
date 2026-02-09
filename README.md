@@ -39,5 +39,5 @@
 - Desenvolver projetos que resolvam problemas reais
 
 <p align="center">
-  <img src="pro.gif" width="350" alt="GIF animado">
+  <img src="pro.gif" width="100%" alt="GIF animado">
 </p>
