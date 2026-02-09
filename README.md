@@ -1,96 +1,39 @@
-# 👋 Igor Eustachio
+# 👋 Igor Eustachio | Estudante de Programação
 
-Meu nome é Igor Daniel Rodrigues Eustachio, tenho 16 anos e sou natural de Jundiaí. Estou cursando Desenvolvimento de Sistemas na Etec Vasco Antonio Venchiarutti, além de Python para Data Science no SENAI. Estou utilizando o GitHub para compartilhar projetos escolares e pessoais.
+- Tenho <strong>16 anos</strong> e sou natural de <strong>Jundiaí, São Paulo</strong>. 
+- Estou cursando o segundo ano de <strong>Desenvolvimento de Sistemas</strong> na Etec Vasco Antonio Venchiarutti.
+- Compartilhando projetos práticos e estudos voltados para <strong>desenvolvimento web, dados e inteligência artificial</strong>.
+- Estudando com foco em <strong>Python, ciência de dados e IA Generativa</strong>.
 
 ---
 
-# 💻 Linguagens e tecnologias que estou estudando
+## 💻 Tecnologias que estou estudando
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VSCode"
-    title="VSCode" 
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Google Colab" 
-    title="Google Colab"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter Notebook" 
-    title="Jupyter Notebook"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Chatvolt" 
-    title="Chatvolt"
-    width="55px" 
-    style="padding-right: 10px;" 
-    src="https://www.chatvolt.ai/logo.png" 
-/>
+<strong>Back-end</strong> <br>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+
+<strong>Front-end</strong> <br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+
+<strong>Ciência de Dados</strong><br>
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+
+<strong>Ferramentas de apoio</strong><br>
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+
+---
+
+## 🏆 Objetivos
+
+- Evoluir como desenvolvedor Back-End
+- Aprofundar conhecimentos em IA e Ciência de Dados
+- Desenvolver projetos que resolvam problemas reais
