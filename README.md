@@ -37,3 +37,7 @@
 - Evoluir como desenvolvedor Back-End
 - Aprofundar conhecimentos em IA e Ciência de Dados
 - Desenvolver projetos que resolvam problemas reais
+
+<p align="center">
+  <img src="pro.gif" width="350" alt="GIF animado">
+</p>
