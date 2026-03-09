@@ -11,6 +11,7 @@
 
 <strong>Back-end</strong> <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=fff)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
 <strong>Front-end</strong> <br>
@@ -27,6 +28,7 @@
 
 <strong>Ferramentas de apoio</strong><br>
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
